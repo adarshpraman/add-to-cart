@@ -1,2 +1,2 @@
-# add-to-cart
+# Add To Cart App
 A dynamic shopping list app combining HTML, CSS, JavaScript and Firebase enabling seamless user-friendly shopping experiences.
